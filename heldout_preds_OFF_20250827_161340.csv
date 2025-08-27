@@ -1,0 +1,145 @@
+﻿sent_id,tok_id,token,gold_morphs,pred_morphs,seg_exact,gold_gloss,pred_gloss,gold_pos,pred_pos,gloss_hit_cnt,pos_hit_cnt
+0,0,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+0,1,misin-nas-i-i,misin + nas + i + i,misin + nas + i + i,TRUE,ミシン + CVLZ + THM + SEQ,UNK.N + CVLZ + THM + SEQ,N + VAFX + VAFX + VAFX,N + VAFX + VAFX + VAFX,3,4
+0,2,ka=tti,ka + tti,ka + tti,TRUE,ONM + QUOT,買う + QUOT,INTJ + CJP,V + CJP,1,1
+0,3,u-i-ba=du,u + i + ba + du,u + i + ba + du,TRUE,PROG + THM + CSL + FOC,いる + CNF + CSL + FOC,AUX + VAFX + VAFX + ISP,V + SFP + VAFX + ISP,2,2
+0,4,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+0,5,kuusjuu=nu,kuusjuu + nu,kuusjuu + nu,TRUE,空襲 + NOM,UNK.N + NOM,N + CP,N + CP,1,2
+0,6,sugu,sugu,sugu,TRUE,DSC,DSC,INTJ,INTJ,1,1
+0,7,baribari=tti,baribari + tti,baribari + tti,TRUE,ONM + QUOT,ONM + QUOT,INTJ + CJP,INTJ + CJP,2,2
+0,8,ass-i-ba,ass + i + ba,ass + i + ba,TRUE,言う + THM + CSL,言う + THM + CSL,V + VAFX + VAFX,V + VAFX + VAFX,3,3
+0,9,bookuugoo-gama=u=du,bookuugoo + gama + u + du,bookuugoo + gama + u + du,TRUE,防空壕 + DIM + ACC + FOC,UNK.N + DIM + ACC + FOC,N + NAFX + CP + ISP,N + NAFX + CP + ISP,3,4
+0,10,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+0,11,jaa=nu,jaa + nu,jaa + nu,TRUE,家 + GEN,COP+THM + NOM,N + CP,N + CP,0,2
+0,12,acca-gama=n,acca + gama + n,acca + gama + n,TRUE,そば + DIM + DAT,そば + DIM + DAT,N + NAFX + CP,CP + NAFX + CP,3,2
+0,13,cɨff-i-utui,cɨff + i + utui,cɨff + i + utui,TRUE,作る + THM + CRCM,作る + THM + CRCM,V + VAFX + VAFX,V + VAFX + VAFX,3,3
+1,0,ik-i-i,ik + i + i,ik + i + i,TRUE,行く + THM + SEQ,行く + THM + SEQ,V + VAFX + VAFX,V + VAFX + VAFX,3,3
+1,1,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+1,2,unu,unu,unu,TRUE,FIL,FIL,INTJ,INTJ,1,1
+2,0,kuusjuu=nu,kuusjuu + nu,kuusjuu + nu,TRUE,空襲 + NOM,UNK.N + NOM,N + CP,N + CP,1,2
+2,1,baribari=tii,baribari + tii,baribari + tii,TRUE,ONM + QUOT,ONM + QUOT,INTJ + CJP,INTJ + CJP,2,2
+2,2,as-i-i,as + i + i,as + i + i,TRUE,する + THM + SEQ,する + THM + SEQ,V + VAFX + VAFX,V + VAFX + VAFX,3,3
+2,3,fɨɨ=n=na,fɨɨ + n + na,fɨɨ + n + na,TRUE,来る + DAT + TOP,来る + NEG + ない,V + CP + ISP,V + VAFX + V,1,1
+2,4,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+3,0,ana=nkai,ana + nkai,ana + nkai,TRUE,穴 + ALL,穴 + ALL,N + CP,CP + UNK,2,0
+3,1,parr=saai,parr + saai,parr + saai,TRUE,入る + ADR,入る + ADR,V + SFP,V + SFP,2,2
+4,0,biiduurga,biiduurga,biiduurga,TRUE,,,,,1,1
+4,1,XXX,XXX,XXX,TRUE,,,INTJ,V,1,0
+4,2,sugu,sugu,sugu,TRUE,DSC,DSC,N,INTJ,1,0
+4,3,fɨhacɨdan=mai,fɨhacɨdan + mai,fɨhacɨdan + mai,TRUE,不発弾 + ADD,不発弾 + ADD,LP + V,LP + V,2,2
+4,4,uti-u-ta-m=dooi,uti + u + ta + m + dooi,uti + u + ta + m + dooi,TRUE,落ちる + PROG + PST + RLS + ASR,落ちる + PROG + PL + RLS + ASR,VAFX + VAFX + VAFX + SFP + PRN,V + VAFX + NAFX + VAFX + SFP,4,1
+4,5,banti=ga,banti + ga,banti + ga,TRUE,EXCL + GEN,EXCL + FOC,CP + N,CP + ISP,1,1
+4,6,ana=nu,ana + nu,ana + nu,TRUE,穴 + GEN,穴 + NOM,CP + N,CP + CP,1,1
+4,7,acca=nkai,acca + nkai,acca + nkai,TRUE,そば + ALL,そば + ALL,CP + UNK,CP + UNK,2,2
+5,0,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+5,1,unwaruku,unwaruku,unwaruku,TRUE,運悪く,運悪く,ADV,ADV,1,1
+5,2,sɨn-i-uk-a-di,sɨn + i + uk + a + di,sɨn + i + uk + a + di,TRUE,死ぬ + THM + PROS + THM + INT,死ぬ + THM + PROS + THM + INT,V + VAFX + AUX + VAFX + VAFX,V + VAFX + AUX + VAFX + VAFX,5,5
+5,3,ja-tigaa,ja + tigaa,ja + tigaa,TRUE,COP + COND,ACC2 + COND,AUX + VAFX,CP + VAFX,1,1
+5,4,banti=a,banti + a,banti + a,TRUE,EXCL + TOP,EXCL + ある,PRN + ISP,CP + V,1,0
+5,5,XXX,XXX,XXX,TRUE,,,V,V,1,1
+5,6,asɨ-m=mo,asɨ + m + mo,asɨ + m + mo,TRUE,する + RLS + Q,言う + RLS + ADD,VAFX + SFP + UNK,V + VAFX + LP,1,0
+6,0,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+6,1,osimai=du,osimai + du,osimai + du,TRUE,おしまい + FOC,UNK.PART + FOC,N + ISP,PART + ISP,1,1
+6,2,a-tar=saai,a + tar + saai,a + tar + saai,TRUE,COP + PST + ADR,ある + PST + ADR,AUX + VAFX + SFP,V + VAFX + SFP,2,2
+7,0,kanu,kanu,kanu,TRUE,あの,あの,ADN,ADN,1,1
+7,1,cikoo,cikoo,cikoo,TRUE,チコウ,UNK.N,PN,N,0,0
+7,2,cikoo-ta=ga,cikoo + ta + ga,cikoo + ta + ga,TRUE,チコウ + PL + GEN,UNK.N + PST + PUR,PN + VAFX + CP,N + VAFX + VAFX,0,1
+7,3,jaa=nu,jaa + nu,jaa + nu,TRUE,家 + GEN,COP+THM + NOM,N + CP,N + CP,0,2
+7,4,cibi=n=du,cibi + n + du,cibi + n + du,TRUE,後 + DAT + FOC,UNK.N + NEG + FOC,N + CP + ISP,N + VAFX + ISP,1,2
+7,5,misin=nu=baa,misin + nu + baa,misin + nu + baa,TRUE,ミシン + ACC + OTOP,UNK.N + NOM + OTOP,N + CP + ISP,N + CP + ISP,1,3
+7,6,as-i-u-tar=saai,as + i + u + tar + saai,as + i + u + tar + saai,TRUE,する + THM + PROG + PST + ADR,する + THM + PROG + PST + ADR,V + VAFX + AUX + VAFX + SFP,V + VAFX + VAFX + VAFX + SFP,5,4
+7,7,ir=n=du,ir + n + du,ir + n + du,TRUE,西 + DAT + FOC,THM+NPST + NEG + FOC,N + CP + ISP,UNK + VAFX + ISP,1,1
+8,0,mata,mata,mata,TRUE,また,また,CONJ,INTJ,1,0
+8,1,bookuugoo=ja,bookuugoo + ja,bookuugoo + ja,TRUE,防空壕 + TOP,UNK.N + ACC2,N + ISP,N + CP,0,1
+8,2,cikoo-ta=ga,cikoo + ta + ga,cikoo + ta + ga,TRUE,チコウ + PL + GEN,UNK.N + PST + PUR,PN + NAFX + CP,N + VAFX + VAFX,0,0
+8,3,jaa=nu,jaa + nu,jaa + nu,TRUE,家 + GEN,COP+THM + NOM,N + CP,N + CP,0,2
+8,4,nsɨ=n,nsɨ + n,nsɨ + n,TRUE,北 + DAT,DAT+する + NEG,N + CP,UNK + VAFX,0,0
+8,5,ar,ar,ar,TRUE,ある,ある,V,V,1,1
+9,0,cikoota=a,cikoota + a,cikoota + a,TRUE,チコウ + TOP,UNK.N + ある,PN + ISP,N + V,0,0
+9,1,macɨnaka=n=du,macɨnaka + n + du,macɨnaka + n + du,TRUE,マツナカ + DAT + FOC,UNK.N + NEG + FOC,PN + CP + ISP,N + VAFX + ISP,1,1
+9,2,u-ta-i-ba=du,u + ta + i + ba + du,u + ta + i + ba + du,TRUE,いる + PST + THM + CSL + FOC,いる + PL + THM + CSL + FOC,V + VAFX + VAFX + VAFX + ISP,V + NAFX + VAFX + VAFX + ISP,4,4
+9,3,mmna=a,mmna + a,mmna + a,TRUE,みんな + TOP,みんな + ある,N + ISP,ADV + V,1,0
+10,0,vvadu=ga,vvadu + ga,vvadu + ga,TRUE,2PL + NOM,UNK.N + PUR,PRN + CP,N + VAFX,0,0
+10,1,ur,ur,ur,TRUE,いる,PROG,V,AUX,0,0
+10,2,tukuna=nu,tukuna + nu,tukuna + nu,TRUE,ところ + GEN,UNK.N + NOM,N + CP,N + CP,0,2
+10,3,mamaar=n=du,mamaar + n + du,mamaar + n + du,TRUE,周り + DAT + FOC,ACC2+まわる + NEG + FOC,N + CP + ISP,N + VAFX + ISP,1,2
+10,4,jaa=ja,jaa + ja,jaa + ja,TRUE,家 + TOP,COP+THM + ACC2,N + ISP,N + CP,0,1
+10,5,fɨk-i-u-tar,fɨk + i + u + tar,fɨk + i + u + tar,TRUE,葺く + THM + PROG + PST,葺く + THM + PROG + PST,V + VAFX + AUX + VAFX,V + VAFX + VAFX + VAFX,4,3
+10,6,cikoo-ta=a,cikoo + ta + a,cikoota + a,FALSE,チコウ + PL + TOP,UNK.N + ある,PN + VAFX + ISP,N + V,,
+11,0,agaee,agaee,agaee,TRUE,ああ,ああ,INTJ,INTJ,1,1
+12,0,aidu,aidu,aidu,TRUE,それで,それで,CONJ,CONJ,1,1
+12,1,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+12,2,hiitai-taa,hiitai + taa,hiitai + taa,TRUE,兵隊 + PL,UNK.N + PL,N + NAFX,N + NAFX,1,2
+12,3,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+13,0,dodododododododo=tii,dodododododododo + tii,dodododododododo + tii,TRUE,ONM + QUOT,ONM + QUOT,INTJ + CJP,INTJ + CJP,2,2
+13,1,cc-i-i,cc + i + i,cc + ii,FALSE,来る + THM + SEQ,来る + THM+THM,V + VAFX + VAFX,V + N,,
+13,2,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+14,0,faumunu=mai,faumunu + mai,faumunu + mai,TRUE,食べ物 + ADD,UNK.GEN + ADD,N + LP,GEN + V,1,0
+14,1,njaa-n-niba,njaa + n + niba,njaa + n + niba,TRUE,ない + NEG + CSL,ない + NEG + CSL,V + VAFX + VAFX,V + VAFX + CJP,3,2
+15,0,minka=n,minka + n,minka + n,TRUE,民家 + DAT,UNK.N + NEG,N + CP,N + VAFX,0,1
+15,1,parr-i-i,parr + i + i,parr + i + i,TRUE,入る + THM + SEQ,入る + THM + SEQ,V + VAFX + VAFX,V + VAFX + VAFX,3,3
+15,2,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+16,0,naugara,naugara,naugara,TRUE,FIL,FIL,INTJ,INTJ,1,1
+16,1,kai=tti-gama-as-i-i,kai + tti + gama + as + i + i,kai + tti + gama + as + i + i,TRUE,ONM + QUOT + DIM + CVLZ + THM + SEQ,替える.SEQ + QUOT + DIM + する + THM + SEQ,INTJ + CJP + NAFX + XAFX + VAFX + VAFX,V + CJP + NAFX + V + VAFX + VAFX,4,4
+16,2,tii,tii,tii,TRUE,手,QUOT,N,SFP,0,0
+16,3,fɨcɨ=nkai,fɨcɨ + nkai,fɨcɨ + nkai,TRUE,口 + ALL,UNK.N + ALL,N + CP,N + CP,1,2
+16,4,tii-gama=n,tii + gama + n,tii + gama + n,TRUE,手 + DIM + DAT,QUOT + DIM + DAT,N + NAFX + CP,SFP + NAFX + CP,2,2
+16,5,as-i-i,as + i + i,as + i + i,TRUE,する + THM + SEQ,する + THM + SEQ,V + VAFX + VAFX,V + VAFX + VAFX,3,3
+17,0,kawaisoo-ja-gama-as-i-i,kawaisoo + ja + gama + as + i + i,kawaisoo + ja + gama + as + i + i,TRUE,かわいそう + TOP + DIM + CVLZ + THM + SEQ,かわいそう + ACC2 + DIM + する + THM + SEQ,ADJ + ISP + NAFX + XAFX + VAFX + VAFX,ADJ + CP + NAFX + V + VAFX + VAFX,4,4
+17,1,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+17,2,tak-i-u-i-ba=du,tak + i + u + i + ba + du,tak + i + u + i + ba + du,TRUE,立つ + THM + PROG + THM + CSL + FOC,立つ + THM + PROG + CNF + CSL + FOC,V + VAFX + AUX + VAFX + VAFX + ISP,V + VAFX + VAFX + SFP + VAFX + ISP,5,4
+18,0,agerusaa,agerusaa,agerusaa,TRUE,あげるさ,あげるさ,INTJ,INTJ,1,1
+18,1,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+18,2,uimu=u,uimu + u,uimu + u,TRUE,おいも + ACC,UNK.N + いる,N + CP,N + V,0,1
+18,3,fii-tigaa,fii + tigaa,fii + tigaa,TRUE,あげる + COND,あげる + COND,V + VAFX,V + VAFX,2,2
+18,4,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+19,0,fa-i=ja,fa + i + ja,fa + i + ja,TRUE,食べる + SEQ + TOP,食べる + THM + COP,V + VAFX + ISP,V + VAFX + AUX,1,2
+19,1,par-i-ba,par + i + ba,par + i + ba,TRUE,去る + THM + CSL,去る + THM + CSL,V + VAFX + VAFX,V + VAFX + VAFX,3,3
+20,0,mata,mata,mata,TRUE,また,また,CONJ,INTJ,1,0
+20,1,fii,fii,fii,TRUE,あげる,あげる,V,V,1,1
+20,2,narootigaa,narootigaa,narootigaa,TRUE,,,,,1,1
+20,3,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+20,4,cc-i-i,cc + i + i,cc + ii,FALSE,来る + THM + SEQ,来る + THM+THM,V + VAFX + VAFX,V + N,,
+20,5,mata,mata,mata,TRUE,また,また,INTJ,INTJ,1,1
+20,6,tak-i-ba,tak + i + ba,tak + i + ba,TRUE,立つ + THM + CSL,立つ + THM + CSL,V + VAFX + VAFX,V + VAFX + VAFX,3,3
+20,7,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+21,0,banti=ga,banti + ga,banti + ga,TRUE,EXCL + GEN,EXCL + FOC,PRN + CP,CP + ISP,1,0
+21,1,okaasan-ta=a,okaasan + ta + a,okaasan + ta + a,TRUE,母親 + PL + TOP,UNK.NEG + PST + THM,N + NAFX + ISP,NEG + VAFX + VAFX,0,0
+21,2,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+22,0,jarabi-mmi=n=na=cumma,jarabi + mmi + n + na + cumma,jarabi + mmi + n + na + cumma,TRUE,子供 + PL + DAT + TOP + ISF,UNK.N + PL + DAT + ない + ISF,N + NAFX + CP + ISP + LP,N + NAFX + CP + V + LP,3,4
+22,1,fii-da,fii + da,fii + da,TRUE,あげる + NEG.SEQ,あげる + NEG.SEQ,V + VAFX,V + VAFX,2,2
+22,2,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+22,3,mm=mai,mm + mai,mm + mai,TRUE,イモ + ADD,RLS+RLS + ADD,N + LP,UNK + V,1,0
+22,4,njaa-t-ta-i-ba,njaa + t + ta + i + ba,njaa + t + ta + i + ba,TRUE,ない + NEG + PST + THM + SEQ,ない + NEG + PST + THM + CSL,V + VAFX + VAFX + VAFX + VAFX,V + VAFX + VAFX + VAFX + VAFX,4,5
+23,0,mm=mai,mm + mai,mm + mai,TRUE,イモ + ADD,RLS+RLS + ADD,N + LP,UNK + V,1,0
+23,1,njaa-n,njaa + n,njaa + n,TRUE,ない + NEG,ない + NEG,V + VAFX,V + VAFX,2,2
+23,2,nau=mai,nau + mai,nau + mai,TRUE,何 + ADD,TOP+PROG + ADD,PRN + LP,N + V,1,0
+23,3,njaa-n,njaa + n,njaa + n,TRUE,ない + NEG,ない + NEG,V + VAFX,V + VAFX,2,2
+23,4,tuki=du,tuki + du,tuki + du,TRUE,時 + FOC,時 + FOC,FN + ISP,FN + ISP,2,2
+23,5,a-ta-i-ba,a + ta + i + ba,a + taiba,FALSE,COP + PST + THM + CSL,ある + PST.CSL,AUX + VAFX + VAFX + VAFX,V + VAFX,,
+23,6,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+23,7,sjokurjoo=ja,sjokurjoo + ja,sjokurjoo + ja,TRUE,食料 + TOP,UNK.N + ACC2,N + ISP,N + CP,0,1
+24,0,hiitai-mmi=n,hiitai + mmi + n,hiitai + mmi + n,TRUE,兵隊 + PL + DAT,UNK.N + PL + DAT,N + NAFX + CP,N + NAFX + CP,2,3
+24,1,fii,fii,fii,TRUE,あげる.SEQ,あげる,V,V,0,1
+24,2,mmja,mmja,mmja,TRUE,DSC,DSC,INTJ,INTJ,1,1
+24,3,banti=a,banti + a,banti + a,TRUE,EXCL + TOP,EXCL + ある,PRN + ISP,CP + V,1,0
+24,4,onaka=a,onaka + a,onaka + a,TRUE,お腹 + TOP,ACC+中 + ある,N + ISP,N + V,0,1
+24,5,mici=a,mici + a,mici + a,TRUE,満ちる + TOP,満ちる + THM,V + ISP,V + VAFX,1,1
+24,6,mii-t-ta-m,mii + t + ta + m,mii + t + ta + m,TRUE,EXP + NEG + PST + RLS,見る + NEG + PST + RLS,AUX + VAFX + VAFX + VAFX,V + VAFX + VAFX + VAFX,3,3
+25,0,unukja=ga,unukja + ga,unukja + ga,TRUE,3PL + GEN,FIL+間 + PUR,PRN + CP,N + VAFX,0,0
+25,1,anna-ta=ga,anna + ta + ga,anna + ta + ga,TRUE,母親 + PL + NOM,UNK.N + PST + PUR,N + NAFX + CP,N + VAFX + VAFX,0,1
+25,2,fii-tigaa,fii + tigaa,fii + tigaa,TRUE,あげる + COND,あげる + COND,V + VAFX,V + VAFX,2,2
+26,0,okaasan=u=baa,okaasan + u + baa,okaasan + u + baa,TRUE,お母さん + ACC + OTOP,UNK.NEG + いる + OTOP,N + CP + ISP,NEG + V + ISP,1,1
+26,1,anna=to,anna + to,anna + to,TRUE,母親 + QUOT,UNK.N + QUOT,N + CJP,N + CJP,1,2
+26,2,juu=saa,juu + saa,juu + saa,TRUE,言う + ADR,言う + ADR,V + SFP,V + SFP,2,2
+27,0,mata,mata,mata,TRUE,また,また,CONJ,INTJ,1,0
+27,1,otoosan=u=ba,otoosan + u + ba,otoosan + u + ba,TRUE,お父さん + ACC + OTOP,UNK.NEG + いる + OTOP,N + CP + ISP,NEG + V + ISP,1,1
+27,2,uja,uja,uja,TRUE,お父さん,PROG+COP,N,N,0,1
+28,0,mata,mata,mata,TRUE,また,また,CONJ,INTJ,1,0
+28,1,anu,anu,anu,TRUE,FIL,FIL,INTJ,INTJ,1,1
+28,2,obaasan=wa,obaasan + wa,obaasan + wa,TRUE,おばあさん + TOP,UNK.NEG + TOP,N + ISP,NEG + ISP,1,1
+28,3,mma,mma,mma,TRUE,おばあさん,おばあさん,ISP,ISP,1,1
+29,0,anta=no,anta + no,anta + no,TRUE,あんた + GEN,UNK.N + GEN,PRN + CP,N + CP,1,1
+29,1,kani-obaa=wa,kani + obaa + wa,kani + obaa + wa,TRUE,カニ + おばあ + TOP,ONM+DAT + ACC+OTOP + TOP,PN + N + ISP,CAS + N + ISP,1,2
+29,2,moo,moo,moo,TRUE,DSC,DSC,INTJ,INTJ,1,1
+29,3,mma,mma,mma,TRUE,おばあさん,おばあさん,N,ISP,1,0
